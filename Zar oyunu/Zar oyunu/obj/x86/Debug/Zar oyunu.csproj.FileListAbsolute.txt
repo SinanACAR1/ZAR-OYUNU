@@ -1,0 +1,15 @@
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\bin\Debug\Zar oyunu.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\bin\Debug\Zar oyunu.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.csproj.GenerateResource.Cache
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\bin\Debug\Zar oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\bin\Debug\Zar oyunu.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Zar oyunu\Zar oyunu\obj\x86\Debug\Zar oyunu.csprojResolveAssemblyReference.cache
